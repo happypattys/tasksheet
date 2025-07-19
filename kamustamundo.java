@@ -5,8 +5,8 @@ class kamustamundo {
          for(int i=0; i<10 ; ) { i = i++;
  System.out.println("Hello World");
  }
-        System.out.println("Kamusta Mundo!"); 
-    }q
+        System.out.println("Kamusta! Mundo!"); 
+    }
 }
 
 
